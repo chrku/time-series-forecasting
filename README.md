@@ -19,3 +19,5 @@ The results were (on a test set):
 * ARIMA: RMSE of 385.74
 * Prophet: RMSE of 376.52
 * LSTM: RMSE of 283.27
+
+Plots and results are shown in the Jupyter notebook, which also contains the code for the project.
